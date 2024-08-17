@@ -10,3 +10,6 @@ The purpose of the Weather App, is to give real time data of the weather based o
 ## HOW DO YOU USE:
 It's very simple, Open the AppLauncher and input the city that you want to look up
 
+
+
+
