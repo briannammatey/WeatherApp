@@ -1,6 +1,7 @@
 # Weather App 🌤️
-## Welcome to my weather app
+## Welcome to my weather app !!! 🌸🌺🌞🌚
  <!-- Add a gif that would be fun -->
+  <img src= "https://raw.githubusercontent.com/briannammatey/WeatherApp/main/dancing_sun.webp" alt="gif" width="150">
   
 ## Motivation
 My motivation for this was to practice using APIs, and learned more about it.
@@ -34,7 +35,7 @@ After you input your City, State, or Country, based on the weather the GUI, will
 I used the OpenWeatherMap API to track realtime weather information based on the location inputted, using the GET methods.
 I also used the geolocation API, to retrieve the data for the cities, so it can be used in the weatherApp
  
- 
+**ReadMe isn't done**
 
 
 
