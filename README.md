@@ -9,7 +9,11 @@ The purpose of the Weather App, is to give real time data of the weather based o
 
 ## HOW DO YOU USE:
 It's very simple, Open the AppLauncher and input the city that you want to look up
+<br>
+ <img src= "https://raw.githubusercontent.com/briannammatey/WeatherApp/main/weatherexample.png"  width="600">
+<br>
 
+This is an example if I wanted to see the weather for Boston
 
 
 
