@@ -32,10 +32,16 @@ After you input your City, State, or Country, based on the weather the GUI, will
  - Snowy ❄️ - A white Background with a word displayed *Snowy*
 
 ## API USED
-I used the OpenWeatherMap API to track realtime weather information based on the location inputted, using the GET methods.
-I also used the geolocation API, to retrieve the data for the cities, so it can be used in the weatherApp
+This Weather App leverages the OpenWeatherMap API to provide real-time weather information based on user input. By integrating the Geolocation API, the app accurately retrieves and displays weather data for cities around the world.
+
+## Features
+Real-Time Weather Tracking: Retrieve up-to-date weather information for any city using OpenWeatherMap API's GET methods.
+City-Based Data Retrieval: Utilize Geolocation API to obtain precise weather data for specified locations.
+User Input: Enter a city name to get current weather conditions, including temperature, humidity, and weather description.
  
-**ReadMe isn't done**
+
+
+
 
 
 
