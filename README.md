@@ -4,8 +4,7 @@
   <img src= "https://raw.githubusercontent.com/briannammatey/WeatherApp/main/dancing_sun.webp" alt="gif" width="150">
   
 ## Motivation
-My motivation for this was to practice using APIs, and learned more about it.
-
+My primary motivation for developing this weatherapp was to practice using APIs, and deepen my understanding about API usage and implementation.
 
 ## Purpose
 The purpose of the Weather App, is to give real time data of the weather based on the inputted City.
@@ -34,10 +33,17 @@ After you input your City, State, or Country, based on the weather the GUI, will
 ## API USED
 This Weather App leverages the OpenWeatherMap API to provide real-time weather information based on user input. By integrating the Geolocation API, the app accurately retrieves and displays weather data for cities around the world.
 
-## Features
+### API Features
 Real-Time Weather Tracking: Retrieve up-to-date weather information for any city using OpenWeatherMap API's GET methods.
 City-Based Data Retrieval: Utilize Geolocation API to obtain precise weather data for specified locations.
-User Input: Enter a city name to get current weather conditions, including temperature, humidity, and weather description.
+
+## Features
+### MAIN
+  This is the Main method, that displays the Graphical user Interface using classes from Java Swing, and this is where we are going to display the information
+### WeatherAPI
+The WeatherAPI class handles all interactions with the OpenWeatherMap API. It manages API key authentication, establishes an HTTP connection, retrieves weather data, and parses the JSON response. This class ensures that weather data is accurately fetched and processed for display in the GUI.
+ ### AppLauncher
+ The AppLauncher class is responsible for initializing and launching the application. It sets up the necessary components, prepares the GUI, and ensures that the application starts smoothly.
  
 
 
